@@ -1,5 +1,6 @@
 **Chat App Setup Guide**
-This guide will help you set up the Chat App locally on your machine. Please follow the steps below.
+This guide will help you set up the Chat App locally on your machine. 
+Please follow the steps below.
 
 **1. Clone the Repository**
 Start by cloning the repository to your local machine:
